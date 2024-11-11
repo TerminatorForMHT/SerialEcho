@@ -1,0 +1,2 @@
+pyserial==3.5
+pyinstaller==5.13.0
